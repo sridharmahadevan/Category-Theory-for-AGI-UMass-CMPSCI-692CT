@@ -1,0 +1,15 @@
+name: ct4agi
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - jupyterlab
+  - numpy
+  - pandas
+  - matplotlib
+  - networkx
+  - graphviz
+  - pip:
+      - pgmpy==0.1.26
+      - torch==2.*; platform_system != "Darwin" or platform_machine != "arm64"
