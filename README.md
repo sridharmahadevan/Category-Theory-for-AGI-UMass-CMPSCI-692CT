@@ -9,6 +9,7 @@ in each badge so students can launch directly in Colab.
 - `notebooks/week01_sudoku_gt_db.ipynb` (Sudoku GT vs Transformer + Diagrammatic Backprop)
 - `notebooks/week01_lm_gt_vs_transformer.ipynb` (PTB language modeling: GT vs Transformer)
 - `notebooks/week02_yoneda_microdemo.ipynb`
+- `notebooks/week02_yoneda_self_attention_demo1.ipynb` (Yoneda self-attention demo)
 - `notebooks/week03_limits_colimits_microdemo.ipynb`
 - `notebooks/week04_clustering_as_functor.ipynb`
 - `notebooks/week07_sheaves_covers.ipynb` (Sheaves via covers and gluing)
@@ -52,6 +53,8 @@ jupyter lab
   https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week01_lm_gt_vs_transformer.ipynb
 - Week 2 — Yoneda Micro-Demo  
   https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week02_yoneda_microdemo.ipynb
+- Week 2 — Yoneda Self-Attention Demo 1  
+  https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week02_yoneda_self_attention_demo1.ipynb
 - Week 3 — Limits & Colimits Micro-Demos  
   https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week03_limits_colimits_microdemo.ipynb
 - Week 4 — Clustering as a Functor  
@@ -91,6 +94,8 @@ jupyter lab
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week01_lm_gt_vs_transformer.ipynb)
 - Week 2 — Yoneda Micro-Demo  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week02_yoneda_microdemo.ipynb)
+- Week 2 — Yoneda Self-Attention Demo 1  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week02_yoneda_self_attention_demo1.ipynb)
 - Week 3 — Limits & Colimits Micro-Demos  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week03_limits_colimits_microdemo.ipynb)
 - Week 4 — Clustering as a Functor  
