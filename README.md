@@ -14,6 +14,8 @@ in each badge so students can launch directly in Colab.
 - `notebooks/week03_db_colimit_energy.ipynb` (DB as (co)limit energy minimization)
 - `notebooks/week04_clustering_as_functor.ipynb`
 - `notebooks/week04_gt_full_node_labeling.ipynb` (GT‑Full toy node labeling)
+- `notebooks/week05_mini_democritus.ipynb` (Mini‑Democritus causal manifold)
+- `notebooks/week06_gt_full_ptb.ipynb` (GT‑Full on PTB, tiny LM)
 - `notebooks/week07_sheaves_covers.ipynb` (Sheaves via covers and gluing)
 - `notebooks/week08_topos_overlap_penalty.ipynb` (Topos overlap consistency penalty)
 - `notebooks/week09_causal_discovery_toy.ipynb` (Toy causal discovery)
@@ -67,6 +69,12 @@ jupyter lab
 - Week 4 — GT‑Full Toy Node Labeling  
   Relation‑aware GT‑Full message passing vs baseline MLP.  
   https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week04_gt_full_node_labeling.ipynb
+- Week 5 — Mini‑Democritus  
+  Causal triples → GT‑Full embeddings → 2D manifold.  
+  https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week05_mini_democritus.ipynb
+- Week 6 — GT‑Full on PTB (Tiny)  
+  Relation‑aware GT‑Full LM vs baseline Transformer on PTB.  
+  https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week06_gt_full_ptb.ipynb
 - Week 7 — Sheaves via Covers and Gluing  
   Local covers + overlap consistency on a toy interference example.  
   https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week07_sheaves_covers.ipynb
@@ -114,6 +122,12 @@ jupyter lab
 - Week 4 — GT‑Full Toy Node Labeling  
   Relation‑aware GT‑Full message passing vs baseline MLP.  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week04_gt_full_node_labeling.ipynb)
+- Week 5 — Mini‑Democritus  
+  Causal triples → GT‑Full embeddings → 2D manifold.  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week05_mini_democritus.ipynb)
+- Week 6 — GT‑Full on PTB (Tiny)  
+  Relation‑aware GT‑Full LM vs baseline Transformer on PTB.  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week06_gt_full_ptb.ipynb)
 - Week 7 — Sheaves via Covers and Gluing  
   Local covers + overlap consistency on a toy interference example.  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week07_sheaves_covers.ipynb)
