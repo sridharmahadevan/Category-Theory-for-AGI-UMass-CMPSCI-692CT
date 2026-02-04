@@ -13,6 +13,7 @@ in each badge so students can launch directly in Colab.
 - `notebooks/week03_limits_colimits_microdemo.ipynb`
 - `notebooks/week03_db_colimit_energy.ipynb` (DB as (co)limit energy minimization)
 - `notebooks/week04_clustering_as_functor.ipynb`
+- `notebooks/week04_gt_full_node_labeling.ipynb` (GT‑Full toy node labeling)
 - `notebooks/week07_sheaves_covers.ipynb` (Sheaves via covers and gluing)
 - `notebooks/week08_topos_overlap_penalty.ipynb` (Topos overlap consistency penalty)
 - `notebooks/week09_causal_discovery_toy.ipynb` (Toy causal discovery)
@@ -63,6 +64,9 @@ jupyter lab
   https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week03_db_colimit_energy.ipynb
 - Week 4 — Clustering as a Functor  
   https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week04_clustering_as_functor.ipynb
+- Week 4 — GT‑Full Toy Node Labeling  
+  Relation‑aware GT‑Full message passing vs baseline MLP.  
+  https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week04_gt_full_node_labeling.ipynb
 - Week 7 — Sheaves via Covers and Gluing  
   Local covers + overlap consistency on a toy interference example.  
   https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week07_sheaves_covers.ipynb
@@ -107,6 +111,9 @@ jupyter lab
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week03_db_colimit_energy.ipynb)
 - Week 4 — Clustering as a Functor  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week04_clustering_as_functor.ipynb)
+- Week 4 — GT‑Full Toy Node Labeling  
+  Relation‑aware GT‑Full message passing vs baseline MLP.  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week04_gt_full_node_labeling.ipynb)
 - Week 7 — Sheaves via Covers and Gluing  
   Local covers + overlap consistency on a toy interference example.  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week07_sheaves_covers.ipynb)
