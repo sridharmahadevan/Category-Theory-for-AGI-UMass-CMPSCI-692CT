@@ -11,6 +11,7 @@ in each badge so students can launch directly in Colab.
 - `notebooks/week02_yoneda_microdemo.ipynb`
 - `notebooks/week02_yoneda_self_attention_demo1.ipynb` (Yoneda self-attention demo)
 - `notebooks/week03_limits_colimits_microdemo.ipynb`
+- `notebooks/week03_db_colimit_energy.ipynb` (DB as (co)limit energy minimization)
 - `notebooks/week04_clustering_as_functor.ipynb`
 - `notebooks/week07_sheaves_covers.ipynb` (Sheaves via covers and gluing)
 - `notebooks/week08_topos_overlap_penalty.ipynb` (Topos overlap consistency penalty)
@@ -57,6 +58,9 @@ jupyter lab
   https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week02_yoneda_self_attention_demo1.ipynb
 - Week 3 — Limits & Colimits Micro-Demos  
   https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week03_limits_colimits_microdemo.ipynb
+- Week 3 — DB as (Co)limit Energy  
+  Minimize consistency/gluing energy to approximate limits and colimits.  
+  https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week03_db_colimit_energy.ipynb
 - Week 4 — Clustering as a Functor  
   https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week04_clustering_as_functor.ipynb
 - Week 7 — Sheaves via Covers and Gluing  
@@ -98,6 +102,9 @@ jupyter lab
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week02_yoneda_self_attention_demo1.ipynb)
 - Week 3 — Limits & Colimits Micro-Demos  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week03_limits_colimits_microdemo.ipynb)
+- Week 3 — DB as (Co)limit Energy  
+  Minimize consistency/gluing energy to approximate limits and colimits.  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week03_db_colimit_energy.ipynb)
 - Week 4 — Clustering as a Functor  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week04_clustering_as_functor.ipynb)
 - Week 7 — Sheaves via Covers and Gluing  
