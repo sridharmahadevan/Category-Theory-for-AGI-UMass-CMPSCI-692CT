@@ -11,6 +11,14 @@ in each badge so students can launch directly in Colab.
 - `notebooks/week02_yoneda_microdemo.ipynb`
 - `notebooks/week03_limits_colimits_microdemo.ipynb`
 - `notebooks/week04_clustering_as_functor.ipynb`
+- `notebooks/week07_sheaves_covers.ipynb` (Sheaves via covers and gluing)
+- `notebooks/week08_topos_overlap_penalty.ipynb` (Topos overlap consistency penalty)
+- `notebooks/week09_causal_discovery_toy.ipynb` (Toy causal discovery)
+- `notebooks/week10_kan_do_rn.ipynb` (Kan-Do calculus with RN ratios)
+- `notebooks/week11_subobject_classifier.ipynb` (Subobject classifier in Sets)
+- `notebooks/week12_jstability_regimes.ipynb` (j-stability across regimes)
+- `notebooks/week13_democritus_manifold.ipynb` (Democritus causal manifold demo)
+- `data/democritus/manifold.npz` (small topic manifold snapshot)
 
 ## Usage
 1. Open the notebook link (or upload to Colab), run the **Environment** cell first.
@@ -48,6 +56,27 @@ jupyter lab
   https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week03_limits_colimits_microdemo.ipynb
 - Week 4 — Clustering as a Functor  
   https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week04_clustering_as_functor.ipynb
+- Week 7 — Sheaves via Covers and Gluing  
+  Local covers + overlap consistency on a toy interference example.  
+  https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week07_sheaves_covers.ipynb
+- Week 8 — Topos Overlap Penalty  
+  Sheaf-style overlap penalty prefers the true causal graph.  
+  https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week08_topos_overlap_penalty.ipynb
+- Week 9 — Toy Causal Discovery  
+  Recover edges from a linear SEM with simple regressions.  
+  https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week09_causal_discovery_toy.ipynb
+- Week 10 — Kan-Do Calculus with RN Ratios  
+  Conditioning vs intervention via Radon–Nikodym reweighting.  
+  https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week10_kan_do_rn.ipynb
+- Week 11 — Subobject Classifier  
+  Characteristic maps in Sets as a concrete subobject classifier.  
+  https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week11_subobject_classifier.ipynb
+- Week 12 — j-Stability Across Regimes  
+  Stable edges across environments from synthetic SEMs.  
+  https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week12_jstability_regimes.ipynb
+- Week 13 — Democritus Causal Manifold  
+  Visualize a topic manifold as a lightweight DB + GT example.  
+  https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week13_democritus_manifold.ipynb
 
 ## Colab Badges
 
@@ -66,3 +95,24 @@ jupyter lab
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week03_limits_colimits_microdemo.ipynb)
 - Week 4 — Clustering as a Functor  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week04_clustering_as_functor.ipynb)
+- Week 7 — Sheaves via Covers and Gluing  
+  Local covers + overlap consistency on a toy interference example.  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week07_sheaves_covers.ipynb)
+- Week 8 — Topos Overlap Penalty  
+  Sheaf-style overlap penalty prefers the true causal graph.  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week08_topos_overlap_penalty.ipynb)
+- Week 9 — Toy Causal Discovery  
+  Recover edges from a linear SEM with simple regressions.  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week09_causal_discovery_toy.ipynb)
+- Week 10 — Kan-Do Calculus with RN Ratios  
+  Conditioning vs intervention via Radon–Nikodym reweighting.  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week10_kan_do_rn.ipynb)
+- Week 11 — Subobject Classifier  
+  Characteristic maps in Sets as a concrete subobject classifier.  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week11_subobject_classifier.ipynb)
+- Week 12 — j-Stability Across Regimes  
+  Stable edges across environments from synthetic SEMs.  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week12_jstability_regimes.ipynb)
+- Week 13 — Democritus Causal Manifold  
+  Visualize a topic manifold as a lightweight DB + GT example.  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week13_democritus_manifold.ipynb)
