@@ -8,6 +8,7 @@ in each badge so students can launch directly in Colab.
 - `notebooks/week01_backprop_as_functor.ipynb`
 - `notebooks/week01_sudoku_gt_db.ipynb` (Sudoku GT vs Transformer + Diagrammatic Backprop)
 - `notebooks/week01_lm_gt_vs_transformer.ipynb` (PTB language modeling: GT vs Transformer)
+- `notebooks/week01_coalgebra_demo.ipynb` (Coalgebra: deterministic + MDP)
 - `notebooks/week02_yoneda_microdemo.ipynb`
 - `notebooks/week02_yoneda_self_attention_demo1.ipynb` (Yoneda self-attention demo)
 - `notebooks/week03_limits_colimits_microdemo.ipynb`
@@ -55,6 +56,9 @@ jupyter lab
 - Week 1 — Language Modeling (PTB): GT vs Transformer  
   Compare **Geometric Transformer vs. baseline Transformer** on a tiny PTB language model.  
   https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week01_lm_gt_vs_transformer.ipynb
+- Week 1 — Coalgebra Demo  
+  Deterministic system + MDP as coalgebras.  
+  https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week01_coalgebra_demo.ipynb
 - Week 2 — Yoneda Micro-Demo  
   https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week02_yoneda_microdemo.ipynb
 - Week 2 — Yoneda Self-Attention Demo 1  
@@ -108,6 +112,9 @@ jupyter lab
 - Week 1 — Language Modeling (PTB): GT vs Transformer  
   Compare **Geometric Transformer vs. baseline Transformer** on a tiny PTB language model.  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week01_lm_gt_vs_transformer.ipynb)
+- Week 1 — Coalgebra Demo  
+  Deterministic system + MDP as coalgebras.  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week01_coalgebra_demo.ipynb)
 - Week 2 — Yoneda Micro-Demo  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week02_yoneda_microdemo.ipynb)
 - Week 2 — Yoneda Self-Attention Demo 1  
