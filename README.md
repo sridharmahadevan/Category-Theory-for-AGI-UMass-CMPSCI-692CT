@@ -24,6 +24,7 @@ in each badge so students can launch directly in Colab.
 - `notebooks/week11_subobject_classifier.ipynb` (Subobject classifier in Sets)
 - `notebooks/week12_jstability_regimes.ipynb` (j-stability across regimes)
 - `notebooks/week13_democritus_manifold.ipynb` (Democritus causal manifold demo)
+- `notebooks/week13_open_games_attention_economy.ipynb` (Open games: attention economy)
 - `data/democritus/manifold.npz` (small topic manifold snapshot)
 
 ## Usage
@@ -100,6 +101,9 @@ jupyter lab
 - Week 13 — Democritus Causal Manifold  
   Visualize a topic manifold as a lightweight DB + GT example.  
   https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week13_democritus_manifold.ipynb
+- Week 13 — Open Games: Attention Economy  
+  Simple open‑game play/co‑play demo for attention competition.  
+  https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week13_open_games_attention_economy.ipynb
 
 ## Colab Badges
 
@@ -156,3 +160,6 @@ jupyter lab
 - Week 13 — Democritus Causal Manifold  
   Visualize a topic manifold as a lightweight DB + GT example.  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week13_democritus_manifold.ipynb)
+- Week 13 — Open Games: Attention Economy  
+  Simple open‑game play/co‑play demo for attention competition.  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week13_open_games_attention_economy.ipynb)
