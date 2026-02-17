@@ -13,6 +13,7 @@ in each badge so students can launch directly in Colab.
 - `notebooks/week02_yoneda_self_attention_demo1.ipynb` (Yoneda self-attention demo)
 - `notebooks/week03_limits_colimits_microdemo.ipynb`
 - `notebooks/week03_db_colimit_energy.ipynb` (DB as (co)limit energy minimization)
+- `notebooks/week3_synthetic_av_pullback-2.ipynb` (Synthetic AV pullback alignment: hard vs soft pullback)
 - `notebooks/week04_clustering_as_functor.ipynb`
 - `notebooks/week04_gt_full_node_labeling.ipynb` (GT‑Full toy node labeling)
 - `notebooks/week05_mini_democritus.ipynb` (Mini‑Democritus causal manifold)
@@ -69,6 +70,9 @@ jupyter lab
 - Week 3 — DB as (Co)limit Energy  
   Minimize consistency/gluing energy to approximate limits and colimits.  
   https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week03_db_colimit_energy.ipynb
+  - Week 3 — Synthetic AV Pullback Alignment  
+  Pullback as alignment: hard pullback (argmax buckets) vs soft pullback (Hungarian matching).  
+  https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week3_synthetic_av_pullback-2.ipynb
 - Week 4 — Clustering as a Functor  
   https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week04_clustering_as_functor.ipynb
 - Week 4 — GT‑Full Toy Node Labeling  
@@ -128,6 +132,9 @@ jupyter lab
 - Week 3 — DB as (Co)limit Energy  
   Minimize consistency/gluing energy to approximate limits and colimits.  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week03_db_colimit_energy.ipynb)
+  - Week 3 — Synthetic AV Pullback Alignment  
+  Pullback as alignment: hard pullback (argmax buckets) vs soft pullback (Hungarian matching).  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week3_synthetic_av_pullback-2.ipynb)
 - Week 4 — Clustering as a Functor  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week04_clustering_as_functor.ipynb)
 - Week 4 — GT‑Full Toy Node Labeling  
