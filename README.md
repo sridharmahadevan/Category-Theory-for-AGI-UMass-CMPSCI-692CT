@@ -132,7 +132,7 @@ jupyter lab
 - Week 3 — DB as (Co)limit Energy  
   Minimize consistency/gluing energy to approximate limits and colimits.  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week03_db_colimit_energy.ipynb)
-  - Week 3 — Synthetic AV Pullback Alignment  
+- Week 3 — Synthetic AV Pullback Alignment  
   Pullback as alignment: hard pullback (argmax buckets) vs soft pullback (Hungarian matching).  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week3_synthetic_av_pullback-2.ipynb)
 - Week 4 — Clustering as a Functor  
