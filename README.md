@@ -5,6 +5,7 @@ lightweight **micro-demos**, and **exercises**. Push this repo to GitHub and rep
 in each badge so students can launch directly in Colab.
 
 ## Structure
+- `lectures/` (week-by-week lecture handouts/index pages)
 - `notebooks/week01_backprop_as_functor.ipynb`
 - `notebooks/week01_sudoku_gt_db.ipynb` (Sudoku GT vs Transformer + Diagrammatic Backprop)
 - `notebooks/week01_lm_gt_vs_transformer.ipynb` (PTB language modeling: GT vs Transformer)
@@ -28,6 +29,10 @@ in each badge so students can launch directly in Colab.
 - `notebooks/week13_democritus_manifold.ipynb` (Democritus causal manifold demo)
 - `notebooks/week13_open_games_attention_economy.ipynb` (Open games: attention economy)
 - `data/democritus/manifold.npz` (small topic manifold snapshot)
+
+Lecture index:
+
+- `lectures/README.md`
 
 ## Usage
 1. Open the notebook link (or upload to Colab), run the **Environment** cell first.
