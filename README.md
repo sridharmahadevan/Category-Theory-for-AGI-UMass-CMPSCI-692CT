@@ -23,6 +23,7 @@ in each badge so students can launch directly in Colab.
 - `notebooks/week09_causal_discovery_toy.ipynb` (Toy causal discovery)
 - `notebooks/week10_kan_do_rn.ipynb` (Kan-Do calculus with RN ratios)
 - `notebooks/week11_subobject_classifier.ipynb` (Subobject classifier in Sets)
+- `notebooks/week11_coalgebra_gtdb_rl_demo.ipynb` (Coalgebraic RL: GT vs GT+DB vs MLP)
 - `notebooks/week12_jstability_regimes.ipynb` (j-stability across regimes)
 - `notebooks/week13_democritus_manifold.ipynb` (Democritus causal manifold demo)
 - `notebooks/week13_open_games_attention_economy.ipynb` (Open games: attention economy)
@@ -99,6 +100,9 @@ jupyter lab
 - Week 11 — Subobject Classifier  
   Characteristic maps in Sets as a concrete subobject classifier.  
   https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week11_subobject_classifier.ipynb
+- Week 11 — Coalgebraic RL (GT + DB)  
+  Harder synthetic MDP ablation: compare MLP, GT, and GT+DB under stochastic transitions.  
+  https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week11_coalgebra_gtdb_rl_demo.ipynb
 - Week 12 — j-Stability Across Regimes  
   Stable edges across environments from synthetic SEMs.  
   https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week12_jstability_regimes.ipynb
@@ -161,6 +165,9 @@ jupyter lab
 - Week 11 — Subobject Classifier  
   Characteristic maps in Sets as a concrete subobject classifier.  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week11_subobject_classifier.ipynb)
+- Week 11 — Coalgebraic RL (GT + DB)  
+  Harder synthetic MDP ablation: compare MLP, GT, and GT+DB under stochastic transitions.  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week11_coalgebra_gtdb_rl_demo.ipynb)
 - Week 12 — j-Stability Across Regimes  
   Stable edges across environments from synthetic SEMs.  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week12_jstability_regimes.ipynb)
