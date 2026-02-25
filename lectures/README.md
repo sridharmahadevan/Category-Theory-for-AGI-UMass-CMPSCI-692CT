@@ -29,3 +29,9 @@ Folder: `Week4_Diagrammatic_Backpropagation_Geometric_Transformer`
 
 - [lecture7.pdf](Week4_Diagrammatic_Backpropagation_Geometric_Transformer/lecture7.pdf)
 - [lecture8.pdf](Week4_Diagrammatic_Backpropagation_Geometric_Transformer/lecture8.pdf)
+
+## Week 5: Information Flow in GT and DB
+
+Folder: `Week5_Information_Flow_GT_DB`
+
+- [lecture9.tex](Week5_Information_Flow_GT_DB/lecture9.tex)

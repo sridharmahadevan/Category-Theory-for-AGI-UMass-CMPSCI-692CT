@@ -9,6 +9,7 @@ in each badge so students can launch directly in Colab.
 - `notebooks/week01_backprop_as_functor.ipynb`
 - `notebooks/week01_sudoku_gt_db.ipynb` (Sudoku GT vs Transformer + Diagrammatic Backprop)
 - `notebooks/week01_lm_gt_vs_transformer.ipynb` (PTB language modeling: GT vs Transformer)
+- `notebooks/week01_lm_causal_leakage_check.ipynb` (Causal leakage check: Transformer vs GT causal/non-causal)
 - `notebooks/week01_coalgebra_demo.ipynb` (Coalgebra: deterministic + MDP)
 - `notebooks/week02_yoneda_microdemo.ipynb`
 - `notebooks/week02_yoneda_self_attention_demo1.ipynb` (Yoneda self-attention demo)
@@ -17,6 +18,7 @@ in each badge so students can launch directly in Colab.
 - `notebooks/week3_synthetic_av_pullback-2.ipynb` (Synthetic AV pullback alignment: hard vs soft pullback)
 - `notebooks/week04_clustering_as_functor.ipynb`
 - `notebooks/week04_gt_full_node_labeling.ipynb` (GT‑Full toy node labeling)
+- `notebooks/week04_gt_causal_regimes_ptb_colab.ipynb` (PTB/WikiText-2 causal-ablation: GT causal/non-causal + transition variants)
 - `notebooks/week05_mini_democritus.ipynb` (Mini‑Democritus causal manifold)
 - `notebooks/week06_gt_full_ptb.ipynb` (GT‑Full on PTB, tiny LM)
 - `notebooks/week07_sheaves_covers.ipynb` (Sheaves via covers and gluing)
@@ -64,6 +66,9 @@ jupyter lab
 - Week 1 — Language Modeling (PTB): GT vs Transformer  
   Compare **Geometric Transformer vs. baseline Transformer** on a tiny PTB language model.  
   https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week01_lm_gt_vs_transformer.ipynb
+- Week 1 — Causal Leakage Check (Transformer vs GT)  
+  Synthetic random-token next-token test to detect future-token leakage in non-causal geometric mixing.  
+  https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week01_lm_causal_leakage_check.ipynb
 - Week 1 — Coalgebra Demo  
   Deterministic system + MDP as coalgebras.  
   https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week01_coalgebra_demo.ipynb
@@ -84,6 +89,9 @@ jupyter lab
 - Week 4 — GT‑Full Toy Node Labeling  
   Relation‑aware GT‑Full message passing vs baseline MLP.  
   https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week04_gt_full_node_labeling.ipynb
+- Week 4 — GT Causal Regimes on PTB  
+  Causal-ablation comparison for six LM variants on PTB or WikiText-2; regime-aware interpretation and transition metric.  
+  https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week04_gt_causal_regimes_ptb_colab.ipynb
 - Week 5 — Mini‑Democritus  
   Causal triples → GT‑Full embeddings → 2D manifold.  
   https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week05_mini_democritus.ipynb
@@ -129,6 +137,9 @@ jupyter lab
 - Week 1 — Language Modeling (PTB): GT vs Transformer  
   Compare **Geometric Transformer vs. baseline Transformer** on a tiny PTB language model.  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week01_lm_gt_vs_transformer.ipynb)
+- Week 1 — Causal Leakage Check (Transformer vs GT)  
+  Synthetic random-token next-token test to detect future-token leakage in non-causal geometric mixing.  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week01_lm_causal_leakage_check.ipynb)
 - Week 1 — Coalgebra Demo  
   Deterministic system + MDP as coalgebras.  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week01_coalgebra_demo.ipynb)
@@ -149,6 +160,9 @@ jupyter lab
 - Week 4 — GT‑Full Toy Node Labeling  
   Relation‑aware GT‑Full message passing vs baseline MLP.  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week04_gt_full_node_labeling.ipynb)
+- Week 4 — GT Causal Regimes on PTB  
+  Causal-ablation comparison for six LM variants on PTB or WikiText-2; regime-aware interpretation and transition metric.  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week04_gt_causal_regimes_ptb_colab.ipynb)
 - Week 5 — Mini‑Democritus  
   Causal triples → GT‑Full embeddings → 2D manifold.  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sridharmahadevan/Category-Theory-for-AGI-UMass-CMPSCI-692CT/blob/main/notebooks/week05_mini_democritus.ipynb)
